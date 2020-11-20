@@ -1,6 +1,6 @@
 # GNL- Get Next Line
 
-Second Project at 42 Curricullum.
+Second Project of 42 Curricullum.
 
 The idea is to write own function that will read given file line by line.
 
