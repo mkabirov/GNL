@@ -15,7 +15,7 @@ As per Project's Objectives:
 
 This project will not only allow you to add a very convenient function to your collection,
 but it will also allow you to learn a highly interesting new concept in C programming:
-# static variables.
+static variables.
 
 You will also gain a deeper understanding of:
 * allocations, whether they happen on the stack memory or in the heap memory
